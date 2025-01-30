@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/3a89f014-558f-4191-ba25-583971a1c034)
+<img src="https://github.com/user-attachments/assets/3a89f014-558f-4191-ba25-583971a1c034" width="500">
 
 ## 평택대학교 팀 프로젝트
 ```
