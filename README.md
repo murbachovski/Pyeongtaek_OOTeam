@@ -1,2 +1,6 @@
 # Pyeongtaek_Team
-Pyeongtaek_Team
+## 
+## 구성원
+```
+팀장: 김대진, 팀원: 김대진, 김대진
+```
