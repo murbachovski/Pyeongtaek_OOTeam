@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/c2d4d830-6141-4da8-9952-28e750ab1c43" width="300">
 </p>
 
-## 평택대학교 PTU-hehyj 프로젝트
+## 평택대학교 프로젝트
 ```
 인파 밀집 시스템 개발
 ```
