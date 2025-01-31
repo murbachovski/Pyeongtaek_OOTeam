@@ -29,8 +29,7 @@ matplotlib==3.5.1
 pip install -r requirements.txt
 ```
 ## 실행
-```
-<span style="color:red;">cd</span>
-cd team_project
-python3 app.py
+```diff
+- cd team_project
++ python3 app.py
 ```
