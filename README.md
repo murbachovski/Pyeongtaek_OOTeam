@@ -40,5 +40,5 @@ python3 app.py
 
 ```
 https://map.kakao.com/?nil_profile=title&nil_src=local
-카카오맵 CCTV 접근하여 소스코드(F12) 확인 후 비디오 링크 가져와서 cv2.CaptureVideo() 안에 넣어주면 영상 스트리밍 됩니다.
+카카오맵 CCTV 접근 => 소스코드(F12) 확인 => 비디오 링크 복사 => cv2.CaptureVideo() 적용 => 영상 스트리밍
 ```
