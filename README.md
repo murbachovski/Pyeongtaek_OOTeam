@@ -29,7 +29,7 @@ matplotlib==3.5.1
 pip install -r requirements.txt
 ```
 ## 실행
-```sh
-cd team_project
+```
+<p>$\it{\large{\color{#DD6565}cd}}$</p> team_project
 python3 app.py
 ```
