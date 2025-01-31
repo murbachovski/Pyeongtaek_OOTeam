@@ -16,9 +16,16 @@
 ```
 프로젝트 주제 고민중
 ```
-## 설치
+## 환경 셋팅
 ```
-python>=3.9
+The code requires python>=3.7 and we use torch==1.10.2 and torchvision==0.11.3. To visualize the results, matplotlib>=3.5.1 is also required.
+python 3.7
+pytorch == 1.10.2
+torchvision == 0.11.3
+matplotlib==3.5.1
+```
+## 환경 설치
+```
 pip install -r requirements.txt
 ```
 ## 실행
