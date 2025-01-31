@@ -14,7 +14,7 @@
 ```
 ## 설명
 ```
-프로젝트 주제 고민중
+YOLO를 활용한...
 ```
 ## 환경 셋팅
 The code requires python>=3.7 and we use torch==1.10.2 and torchvision==0.11.3. To visualize the results, matplotlib>=3.5.1 is also required.
