@@ -16,11 +16,11 @@
 ```
 프로젝트 주제 고민중
 ```
-## 사용법
-# 설치
+# 사용법
+## 설치
 ```
 python>=3.9
 pip install -r requirements.txt
 ```
-# 실행
+## 실행
 python app.py
