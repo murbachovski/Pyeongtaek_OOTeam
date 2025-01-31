@@ -29,4 +29,4 @@ matplotlib==3.5.1
 pip install -r requirements.txt
 ```
 ## 실행
-python app.py
+python3 app.py
