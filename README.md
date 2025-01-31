@@ -33,3 +33,8 @@ pip install -r requirements.txt
 cd team_project
 python3 app.py
 ```
+## 참고자료
+```
+https://map.kakao.com/?nil_profile=title&nil_src=local
+카카오맵 CCTV 접근하여 F12 소스코드 확인 후 비디오 링크 가져와서 cv2.CaptureVideo() 안에 넣어주면 영상 스트리밍 됩니다.
+```
