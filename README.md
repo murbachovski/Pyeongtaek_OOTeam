@@ -40,10 +40,10 @@ python3 app.py
 </p>
 
 ```
--접근 방법
+<접근 방법>
 카카오맵 CCTV 접근 => 소스코드(F12) 확인 => 비디오 링크 복사 => cv2.CaptureVideo() 적용 => 영상 스트리밍
 ```
 ```
--예시 링크
+<예시 링크>
 cap = cv2.VideoCapture("https://cctvsec.ktict.co.kr/6246/cCCtjN+N+EnDEdCu9wHS00X5iOMXIc41FwpwasljdCsrysX/jGzlP6b54WADcjaY")
 ```
