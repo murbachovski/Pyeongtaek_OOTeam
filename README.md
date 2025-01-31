@@ -33,15 +33,17 @@ pip install -r requirements.txt
 cd team_project
 python3 app.py
 ```
-## 참고자료
+## 참고 자료
 1. [카카오맵](https://map.kakao.com/?nil_profile=title&nil_src=local)
 <p align="center">
   <img width="1081" alt="Image" src="https://github.com/user-attachments/assets/2be59a8d-c2cc-4867-9db1-d255f4de3303" width="300">
 </p>
 
 ```
+-접근 방법
 카카오맵 CCTV 접근 => 소스코드(F12) 확인 => 비디오 링크 복사 => cv2.CaptureVideo() 적용 => 영상 스트리밍
 ```
 ```
+-예시 링크
 cap = cv2.VideoCapture("https://cctvsec.ktict.co.kr/6246/cCCtjN+N+EnDEdCu9wHS00X5iOMXIc41FwpwasljdCsrysX/jGzlP6b54WADcjaY")
 ```
