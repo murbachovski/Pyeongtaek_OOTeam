@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```
 ## 실행
 ```
-<p>$\it{\large{\color{#DD6565}이텔릭체,\ 큰글씨,\ 빨간색}}$</p>
+<span style="color:red;">cd</span>
 cd team_project
 python3 app.py
 ```
