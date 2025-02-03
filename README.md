@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3a89f014-558f-4191-ba25-583971a1c034" width="300">
   <img src="https://github.com/user-attachments/assets/c2d4d830-6141-4da8-9952-28e750ab1c43" width="300">
-![Image](https://github.com/user-attachments/assets/cdd5439c-4aff-4c6d-8930-1d2441f9daba)
 </p>
 ## 평택대학교 프로젝트
 ```
@@ -47,3 +46,12 @@ python3 app.py
 ```
 cap = cv2.VideoCapture("https://cctvsec.ktict.co.kr/6246/cCCtjN+N+EnDEdCu9wHS00X5iOMXIc41FwpwasljdCsrysX/jGzlP6b54WADcjaY")
 ```
+
+
+
+
+
+
+![Image](https://github.com/user-attachments/assets/cdd5439c-4aff-4c6d-8930-1d2441f9daba)
+
+
