@@ -46,12 +46,3 @@ python3 app.py
 ```
 cap = cv2.VideoCapture("https://cctvsec.ktict.co.kr/6246/cCCtjN+N+EnDEdCu9wHS00X5iOMXIc41FwpwasljdCsrysX/jGzlP6b54WADcjaY")
 ```
-
-
-
-
-
-
-![Image](https://github.com/user-attachments/assets/cdd5439c-4aff-4c6d-8930-1d2441f9daba)
-
-
