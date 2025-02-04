@@ -17,5 +17,5 @@ YOLO, Flask, OpenCV를 활용한 인파 밀집도를 측정합니다.
 ```
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/76f373f8-bbfc-4e0e-abf1-f525e4c063fb" width="300">
+  <img src="https://github.com/user-attachments/assets/76f373f8-bbfc-4e0e-abf1-f525e4c063fb" width="500">
 </p>
