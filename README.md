@@ -33,7 +33,7 @@ pip install -r requirements.txt
 cd team_project
 python3 app.py
 ```
-## 참고 자료
+## 참고 자료1
 1. [카카오맵](https://map.kakao.com/?nil_profile=title&nil_src=local)
 <p align="center">
   <img width="1081" alt="Image" src="https://github.com/user-attachments/assets/2be59a8d-c2cc-4867-9db1-d255f4de3303" width="300">
@@ -46,4 +46,20 @@ python3 app.py
 ### 예시 링크
 ```
 cap = cv2.VideoCapture("https://cctvsec.ktict.co.kr/6246/cCCtjN+N+EnDEdCu9wHS00X5iOMXIc41FwpwasljdCsrysX/jGzlP6b54WADcjaY")
+```
+
+## 참고 자료2
+1. [구글맵](https://www.google.co.kr/maps/?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D)
+2. [네이버지도](https://map.naver.com/p?c=15.00,0,0,0,dh)
+3. [카카오맵](https://map.kakao.com/?nil_profile=title&nil_src=local)
+
+<p align="center">
+  <img width="1081" alt="Image" src="https://github.com/user-attachments/assets/e64eff6d-f646-47ae-b935-e4cb18a1f192" width="300">
+  <img width="1081" alt="Image" src="https://github.com/user-attachments/assets/fb75e9ae-2d55-4118-ba4d-6f1492b97abc" width="300">
+  <img width="1081" alt="Image" src="https://github.com/user-attachments/assets/745850a6-0d9a-487d-ad18-381229751cec" width="300">
+</p>
+
+### 설명
+```
+각 웹에서 거리 및 면적 측정 가능합니다.
 ```
