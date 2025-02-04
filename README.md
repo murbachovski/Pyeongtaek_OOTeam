@@ -8,6 +8,13 @@
 인파 밀집 시스템 개발
 ```
 
+## 팀 현황
+```
+https://github.com/rivermin01/Pyeongtaek_AI_YOLO_Team/tree/Develop
+https://github.com/dksengh/pyeongtaek_A/tree/main?tab=readme-ov-file
+https://github.com/PTU-hehyj/PTU-VISION/tree/Develope?tab=readme-ov-file
+```
+
 ## 구성원
 ```
 팀장: 김대진
