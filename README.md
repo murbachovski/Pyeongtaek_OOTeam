@@ -49,24 +49,21 @@ cap = cv2.VideoCapture("https://cctvsec.ktict.co.kr/6246/cCCtjN+N+EnDEdCu9wHS00X
 ```
 
 ## 참고 자료2
-
-
-
 1. [구글맵](https://www.google.co.kr/maps/?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/46a67170-4d6c-4a3b-9f64-1d9f5f8c2a98" width="300">
 </p>
-
+---
 2. [네이버지도](https://map.naver.com/p?c=15.00,0,0,0,dh)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/02d5db1d-1d19-4c20-b180-25c9655469a7" width="300">
 </p>
-
+---
 3. [카카오맵](https://map.kakao.com/?nil_profile=title&nil_src=local)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5aa664df-7d71-4a70-88a1-1ea83d45786f" width="300">
 </p>
-
+---
 ### 설명
 ```
 각 웹에서 거리 및 면적 측정 가능합니다.
