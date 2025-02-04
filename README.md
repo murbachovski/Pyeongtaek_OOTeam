@@ -16,47 +16,22 @@
 YOLO, Flask, OpenCV를 활용한 인파 밀집도를 측정합니다.
 ```
 
-CCTV RTSP 검색
+1. CCTV RTSP 검색
 <p align="left">
   <img src="https://github.com/user-attachments/assets/0421835f-2e76-454a-9a89-d8b9a1822833" width="500">
 </p>
 
-면적 측정
+2. 면적 측정
 <p align="left">
   <img src="https://github.com/user-attachments/assets/710ade53-aa17-4873-a484-9382d9d8fe7d" width="500">
 </p>
 
-구역 설정
+3. 구역 설정
 <p align="left">
   <img src="https://github.com/user-attachments/assets/76f373f8-bbfc-4e0e-abf1-f525e4c063fb" width="500">
 </p>
 
-설정된 구역의 면적에 따른 밀집도 알람 설정
+4. 설정된 구역의 면적에 따른 밀집도 알람 설정
 <p align="left">
   <img src="https://github.com/user-attachments/assets/343fedd0-0297-4235-8f64-9a6691715ee4" width="500">
 </p>
-
-
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-
-  <div style="text-align: left; width: 80%;">
-    <h3>CCTV RTSP 검색</h3>
-    <img src="https://github.com/user-attachments/assets/0421835f-2e76-454a-9a89-d8b9a1822833" width="500">
-  </div>
-
-  <div style="text-align: left; width: 80%;">
-    <h3>면적 측정</h3>
-    <img src="https://github.com/user-attachments/assets/710ade53-aa17-4873-a484-9382d9d8fe7d" width="500">
-  </div>
-
-  <div style="text-align: left; width: 80%;">
-    <h3>구역 설정</h3>
-    <img src="https://github.com/user-attachments/assets/76f373f8-bbfc-4e0e-abf1-f525e4c063fb" width="500">
-  </div>
-
-  <div style="text-align: left; width: 80%;">
-    <h3>설정된 구역의 면적에 따른 밀집도 알람 설정</h3>
-    <img src="https://github.com/user-attachments/assets/343fedd0-0297-4235-8f64-9a6691715ee4" width="500">
-  </div>
-
-</div>
