@@ -72,5 +72,13 @@ cap = cv2.VideoCapture("https://cctvsec.ktict.co.kr/6246/cCCtjN+N+EnDEdCu9wHS00X
 
 ## 참고 자료3
 ```
+OC_SORT
 https://github.com/noahcao/OC_SORT/tree/master
+```
+
+## 참고 자료4
+```
+YOLO custom_datasets 경로 셋팅
+coco8.yaml => path : coco8 폴더 경로, train : train 폴더 경로, val : val 폴더 경로
+model.train(data='coco8.yaml 파일 경로')
 ```
