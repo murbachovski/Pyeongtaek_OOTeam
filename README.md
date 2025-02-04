@@ -9,9 +9,9 @@
 ```
 
 ## 팀 현황
-[팀 현황 - Repository 1](https://github.com/rivermin01/Pyeongtaek_AI_YOLO_Team/tree/Develop)
-[팀 현황 - Repository 2](https://github.com/dksengh/pyeongtaek_A/tree/main)
-[팀 현황 - Repository 3](https://github.com/PTU-hehyj/PTU-VISION/tree/Develope)
+[Repository 1](https://github.com/rivermin01/Pyeongtaek_AI_YOLO_Team/tree/Develop)<br>
+[Repository 2](https://github.com/dksengh/pyeongtaek_A/tree/main)<br>
+[Repository 3](https://github.com/PTU-hehyj/PTU-VISION/tree/Develope)<br>
 
 ## 구성원(예시
 ```
