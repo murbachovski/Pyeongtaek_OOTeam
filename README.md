@@ -31,12 +31,17 @@ YOLO, Flask, OpenCV를 활용한 인파 밀집도를 측정합니다.
   <img src="https://github.com/user-attachments/assets/60af9e8d-9c69-4982-b26b-8313f489b7f7" width="500">
 </p>
 
-4. 구역 설정
+4. 밀집도 계산
+<p align="lef">
+  <img src="https://github.com/user-attachments/assets/0d920941-7751-40fb-9ef7-d9235f0a5dd4" width="500">
+</p>
+
+5. 구역 설정
 <p align="left">
   <img src="https://github.com/user-attachments/assets/76f373f8-bbfc-4e0e-abf1-f525e4c063fb" width="500">
 </p>
 
-5. 설정된 구역의 면적에 따른 밀집도 알람 설정
+6. 설정된 구역의 면적에 따른 밀집도 알람 설정
 <p align="left">
   <img src="https://github.com/user-attachments/assets/343fedd0-0297-4235-8f64-9a6691715ee4" width="500">
 </p>
