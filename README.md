@@ -15,18 +15,18 @@ https://github.com/dksengh/pyeongtaek_A/tree/main?tab=readme-ov-file
 https://github.com/PTU-hehyj/PTU-VISION/tree/Develope?tab=readme-ov-file
 ```
 
-## 구성원
+## 구성원(예시
 ```
 팀장: 김대진
 팀원: 김대진, 김대진
 ```
 
-## 설명
+## 설명(예시
 ```
 YOLO를 활용한...
 ```
 
-## 환경 셋팅
+## 환경 셋팅(예시
 The code requires python>=3.7 and we use torch==1.10.2 and torchvision==0.11.3. To visualize the results, matplotlib>=3.5.1 is also required.
 ```
 python 3.7
@@ -35,12 +35,12 @@ torchvision == 0.11.3
 matplotlib==3.5.1
 ```
 
-## 환경 설치
+## 환경 설치(예시
 ```
 pip install -r requirements.txt
 ```
 
-## 실행
+## 실행(예시
 ```
 cd team_project
 python3 app.py
