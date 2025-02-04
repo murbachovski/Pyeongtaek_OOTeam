@@ -54,10 +54,11 @@ cap = cv2.VideoCapture("https://cctvsec.ktict.co.kr/6246/cCCtjN+N+EnDEdCu9wHS00X
 3. [카카오맵](https://map.kakao.com/?nil_profile=title&nil_src=local)
 
 <p align="center">
-  <img width="1081" alt="Image" src="https://github.com/user-attachments/assets/e64eff6d-f646-47ae-b935-e4cb18a1f192" width="300">
-  <img width="1081" alt="Image" src="https://github.com/user-attachments/assets/fb75e9ae-2d55-4118-ba4d-6f1492b97abc" width="300">
-  <img width="1081" alt="Image" src="https://github.com/user-attachments/assets/745850a6-0d9a-487d-ad18-381229751cec" width="300">
+  <img width="1081" alt="Image" src="https://github.com/user-attachments/assets/46a67170-4d6c-4a3b-9f64-1d9f5f8c2a98" width="200">
+  <img width="1081" alt="Image" src="https://github.com/user-attachments/assets/02d5db1d-1d19-4c20-b180-25c9655469a7" width="200">
+  <img width="1081" alt="Image" src="https://github.com/user-attachments/assets/5aa664df-7d71-4a70-88a1-1ea83d45786f" width="200">
 </p>
+
 
 ### 설명
 ```
