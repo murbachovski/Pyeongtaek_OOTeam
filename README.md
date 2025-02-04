@@ -9,11 +9,9 @@
 ```
 
 ## 팀 현황
-```
-https://github.com/rivermin01/Pyeongtaek_AI_YOLO_Team/tree/Develop
-https://github.com/dksengh/pyeongtaek_A/tree/main?tab=readme-ov-file
-https://github.com/PTU-hehyj/PTU-VISION/tree/Develope?tab=readme-ov-file
-```
+[팀 현황 - Repository 1](https://github.com/rivermin01/Pyeongtaek_AI_YOLO_Team/tree/Develop)
+[팀 현황 - Repository 2](https://github.com/dksengh/pyeongtaek_A/tree/main)
+[팀 현황 - Repository 3](https://github.com/PTU-hehyj/PTU-VISION/tree/Develope)
 
 ## 구성원(예시
 ```
