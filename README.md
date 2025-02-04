@@ -23,7 +23,7 @@ YOLO, Flask, OpenCV를 활용한 인파 밀집도를 측정합니다.
 
 2. 면적 측정
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/710ade53-aa17-4873-a484-9382d9d8fe7d" width="500">
+  <img src="https://github.com/user-attachments/assets/81f1ac7e-273a-416e-9820-aaf18d6dbfcd" width="500">
 </p>
 
 3. 구역 설정
