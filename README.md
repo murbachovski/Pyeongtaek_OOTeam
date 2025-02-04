@@ -15,6 +15,17 @@
 ```
 YOLO, Flask, OpenCV를 활용한 인파 밀집도를 측정합니다.
 ```
+
+CCTV RTSP 검색
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/0421835f-2e76-454a-9a89-d8b9a1822833" width="500">
+</p>
+
+면적 측정
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/710ade53-aa17-4873-a484-9382d9d8fe7d" width="500">
+</p>
+
 구역 설정
 <p align="left">
   <img src="https://github.com/user-attachments/assets/76f373f8-bbfc-4e0e-abf1-f525e4c063fb" width="500">
