@@ -96,5 +96,5 @@ model.train(data='coco8.yaml 파일 경로')
 <img src="https://github.com/user-attachments/assets/052d795a-8361-4905-b325-8124e7ba729d" width="600">
 
 ```
-FP => 거짓 탐지 => 즉, 오탐을 줄일 수 있다.
+FP => 거짓 탐지 => 오탐을 줄일 수 있다.
 ```
