@@ -111,6 +111,10 @@ FP => 거짓 탐지 => 오탐을 줄일 수 있다.
 import os
 os.system(afplay ./alarm.mp3)
 
+# MAC(비동기)
+import subprocess
+subprocess.Popen(["afplay", "./alarm.mp3"])
+
 # Winodws
 pip install playsound
 from playsound import playsound
