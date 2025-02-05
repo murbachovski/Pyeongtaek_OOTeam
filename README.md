@@ -46,7 +46,7 @@ python3 app.py
 
 ## CCTV 접근
 1. [카카오맵](https://map.kakao.com/?nil_profile=title&nil_src=local)
-<p align="left">
+<p align="center">
   <img width="1081" alt="Image" src="https://github.com/user-attachments/assets/2be59a8d-c2cc-4867-9db1-d255f4de3303" width="300">
 </p>
 
@@ -62,17 +62,17 @@ cap = cv2.VideoCapture("https://cctvsec.ktict.co.kr/6246/cCCtjN+N+EnDEdCu9wHS00X
 ## 면적 측정
 
 1. [구글맵](https://www.google.co.kr/maps/?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D)
-<p align="left">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/46a67170-4d6c-4a3b-9f64-1d9f5f8c2a98" width="300">
 </p>
 
 2. [네이버지도](https://map.naver.com/p?c=15.00,0,0,0,dh)
-<p align="left">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/02d5db1d-1d19-4c20-b180-25c9655469a7" width="300">
 </p>
 
 3. [카카오맵](https://map.kakao.com/?nil_profile=title&nil_src=local)
-<p align="left">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/5aa664df-7d71-4a70-88a1-1ea83d45786f" width="300">
 </p>
 
