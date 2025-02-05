@@ -81,9 +81,9 @@ cap = cv2.VideoCapture("https://cctvsec.ktict.co.kr/6246/cCCtjN+N+EnDEdCu9wHS00X
 각 웹에서 거리 및 면적 측정 가능
 ```
 
-~~## OC_SORT 모델 활용~~
+## ~~OC_SORT 모델 활용~~
 ```
-~~https://github.com/noahcao/OC_SORT/tree/master~~
+https://github.com/noahcao/OC_SORT/tree/master
 ```
 
 ## YOLO custom_datasets 경로 셋팅
