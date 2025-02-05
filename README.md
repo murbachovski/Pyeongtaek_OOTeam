@@ -100,5 +100,5 @@ FP => 거짓 탐지 => 오탐을 줄일 수 있다.
 ```
 ## Data Augmentation
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/81c866a3-c39d-4cb4-89d6-a7bc818e7a65" width="300">
+  <img src="https://github.com/user-attachments/assets/81c866a3-c39d-4cb4-89d6-a7bc818e7a65" width="600">
 </p>
