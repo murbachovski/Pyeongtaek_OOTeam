@@ -93,5 +93,5 @@ model.train(data='coco8.yaml 파일 경로')
 ```
 
 ## Background images
-<img src="https://github.com/user-attachments/assets/052d795a-8361-4905-b325-8124e7ba729d" width="300">
+<img src="https://github.com/user-attachments/assets/052d795a-8361-4905-b325-8124e7ba729d" width="600">
 
