@@ -11,11 +11,12 @@ def message_pyfiglet(sentence):
     
 # 초기 마지막 촬영 시간 (Epoch 기준으로 0으로 설정)
 last_capture_time = 0
+# 사진 찍기 간격 설정 (초 단위)
+CAPTURE_INTERVAL = 60
 
 def capture_image(im0):
-    global last_capture_time
-    # 사진 찍기 간격 설정 (초 단위)
-    CAPTURE_INTERVAL = 10
+    global last_capture_time, CAPTURE_INTERVAL
+    
     # 설정된 사진 촬영 간격 출력
     print(f"사진 촬영 간격: {CAPTURE_INTERVAL}초")
     # 현재 시간 (초 단위, Epoch 기준으로 반환)
