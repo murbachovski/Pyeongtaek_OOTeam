@@ -91,3 +91,7 @@ https://github.com/noahcao/OC_SORT/tree/master
 coco8.yaml => path : coco8 폴더 경로, train : train 폴더 경로, val : val 폴더 경로
 model.train(data='coco8.yaml 파일 경로')
 ```
+
+## Background images
+<img src="https://github.com/user-attachments/assets/052d795a-8361-4905-b325-8124e7ba729d" width="300">
+
