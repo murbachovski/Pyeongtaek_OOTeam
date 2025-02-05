@@ -104,6 +104,8 @@ FP => 거짓 탐지 => 오탐을 줄일 수 있다.
 </p>
 
 ## 파이썬 경고음 넣기
+[더미 경고음](https://pixabay.com/ko/sound-effects/search/%EA%B2%BD%EA%B3%A0%EC%9D%8C/)
+
 ```
 # MAC
 import os
