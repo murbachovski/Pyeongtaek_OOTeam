@@ -120,3 +120,11 @@ pip install playsound
 from playsound import playsound
 playsound('./alarm.mp3')
 ```
+
+## requirements.txt 만들기
+```
+pip install pipreqs 설치
+프로젝트 폴더 경로 이동
+pipreqs --savepath ./requirements.txt
+저장 경로 확인
+```
