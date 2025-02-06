@@ -130,8 +130,9 @@ playsound('./alarm.mp3')
 ```
 
 ## Twilio 활용하여 Python으로 문자 알림 보내기
-[Twilio](https://www.twilio.com/en-us) 회원 가입
+[Twilio](https://www.twilio.com/en-us)
 ```
+Twilio 회원가입 후
 번호 등록 및 생성 후 코드 변환하여 사용
 ```
 
