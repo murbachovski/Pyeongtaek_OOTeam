@@ -136,7 +136,7 @@ playsound('./alarm.mp3')
 ```
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bd68c8dd-626e-475c-97fc-a50108abdd10" width="600">
+  <img src="https://github.com/user-attachments/assets/bd68c8dd-626e-475c-97fc-a50108abdd10" width="1000">
 </p>
 
 
