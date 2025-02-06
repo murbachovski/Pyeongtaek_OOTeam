@@ -1,0 +1,6 @@
+albumentations==2.0.3
+numpy==2.2.2
+opencv_python==4.10.0.84
+opencv_python_headless==4.11.0.86
+pyfiglet==1.0.2
+termcolor==2.5.0
