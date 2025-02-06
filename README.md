@@ -128,3 +128,15 @@ playsound('./alarm.mp3')
 3. pipreqs --savepath ./requirements.txt
 4. 저장 경로 확인
 ```
+
+## Twilio 활용하여 Python으로 문자 알림 보내기
+```
+[Twilio](https://www.twilio.com/en-us) 회원 가입
+번혼 등록 및 생성 후 코드 변환하여 사용
+```
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd68c8dd-626e-475c-97fc-a50108abdd10" width="600">
+</p>
+
+
