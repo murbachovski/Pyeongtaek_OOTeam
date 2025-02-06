@@ -25,8 +25,6 @@ def get_augmentations():
         A.VerticalFlip(p=1),
         A.RandomRotate90(p=1),
         A.ShiftScaleRotate(shift_limit=0.05, scale_limit=0.05, rotate_limit=30, p=1),
-        # A.GaussNoise(var_limit=(10.0, 50.0), p=1),
-        # A.GaussNoise(var_limit={"low": 10.0, "high": 50.0}, p=1),
         A.MotionBlur(blur_limit=5, p=1),
         A.MedianBlur(blur_limit=5, p=1),
         A.RandomBrightnessContrast(brightness_limit=0.2, contrast_limit=0.2, p=1),
