@@ -1,5 +1,4 @@
 # <25.01.31>
-    # 팀 구성
     # 깃허브 소스 코드 관리 및 프로젝트 설명, 구성원, 개요 등
         # 참고 => https://github.com/murbachovski/
         # 팀원끼리 가상환경 통일(python version등)
