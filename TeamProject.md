@@ -1,4 +1,4 @@
-# <25.01.31>
+## <25.01.31>
     # 깃허브 소스 코드 관리 및 프로젝트 설명, 구성원, 개요 등
         # 참고 => https://github.com/murbachovski/
         # 팀원끼리 가상환경 통일(python version등)
@@ -20,20 +20,20 @@
         # 2. https://github.com/dksengh/pyeongtaek_A
         # 3. https://github.com/PTU-hehyj/PTU-VISION
 
-# <25.02.03>
+## <25.02.03>
     # 팀 프로젝트 진행
 
-# <25.02.04>
+## <25.02.04>
     # 팀 프로젝트 진행
 
-# <25.02.05>
+## <25.02.05>
     # 팀 프로젝트 진행
     # Background images
     # Data Augmentation
     # Web google store => Image downloader, Prompt genie
     # GPC => Vertex AI
 
-# <25.02.06>
+## <25.02.06>
     # 팀 프로젝트 진행
     # requirements.txt 생성법
     # Auto Data Aug Code
