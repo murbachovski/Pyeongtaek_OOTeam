@@ -140,4 +140,7 @@ Twilio 회원가입 후
   <img src="https://github.com/user-attachments/assets/bd68c8dd-626e-475c-97fc-a50108abdd10" width="1000">
 </p>
 
-
+## README.md 파일 작성법 및 소개
+```
+https://gist.github.com/ihoneymon/652be052a0727ad59601
+```
