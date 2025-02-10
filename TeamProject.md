@@ -39,3 +39,16 @@
     # Auto Data Aug Code
     # Auto Label Yolo Code
     # Twilio 활용 Send Message with Python
+
+## <25.02.07>
+    # 팀 프로젝트 진행
+    # 이메일 : ai.murbachovski@gmail.com
+    # 발표 => 12일 수요일 10시 10분 부터 시작
+    # 발표 순서 => 각 팀장 협의
+
+## <25.02.10>
+    # 팀 프로젝트 진행
+    # 발표 => 12일 수요일 10시 10분 부터 시작
+    # 발표 순서 => 각 팀장 협의
+    # 팀 발표할때 다른 팀은 질문 1개 이상
+    # 발표 시간은 15 ~ 20분
