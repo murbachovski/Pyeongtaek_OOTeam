@@ -248,7 +248,7 @@ Precision과 Recall의 조화평균
 
 #### Base64 인코딩
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/84a0bfe9-ce05-46cc-84f1-ac3343aa3c73" width="800">
+  <img src="https://github.com/user-attachments/assets/84a0bfe9-ce05-46cc-84f1-ac3343aa3c73" width="600">
 </p>
 
 ```
