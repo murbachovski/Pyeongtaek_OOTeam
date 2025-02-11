@@ -3,28 +3,28 @@
   <img src="https://github.com/user-attachments/assets/c2d4d830-6141-4da8-9952-28e750ab1c43" width="300">
 </p>
 
-## 평택대학교 프로젝트
+## 💡평택대학교 프로젝트
 ```
 인파 밀집 시스템 개발
 ```
 
-## 팀 현황
+## 💡팀 현황
 1. [Pyeongtaek_AI_YOLO_Team](https://github.com/rivermin01/Pyeongtaek_AI_YOLO_Team/tree/Develop)<br>
 2. [pyeongtaek_A](https://github.com/dksengh/pyeongtaek_A/tree/main)<br>
 3. [PTU-VISION](https://github.com/PTU-hehyj/PTU-VISION/tree/Develope)<br>
 
-## 구성원(예시
+## 💡구성원(예시
 ```
 팀장: 김대진
 팀원: 김대진, 김대진
 ```
 
-## 설명(예시
+## 💡설명(예시
 ```
 YOLO를 활용한...
 ```
 
-## 환경 셋팅(예시
+## 💡환경 셋팅(예시
 The code requires python>=3.7 and we use torch==1.10.2 and torchvision==0.11.3. To visualize the results, matplotlib>=3.5.1 is also required.
 ```
 python 3.7
@@ -33,18 +33,18 @@ torchvision == 0.11.3
 matplotlib==3.5.1
 ```
 
-## 환경 설치(예시
+## 💡환경 설치(예시
 ```
 pip install -r requirements.txt
 ```
 
-## 실행(예시
+## 💡실행(예시
 ```
 cd team_project
 python3 app.py
 ```
 
-## CCTV 접근
+## 💡CCTV 접근
 1. [카카오맵](https://map.kakao.com/?nil_profile=title&nil_src=local)
 <p align="center">
   <img width="1081" alt="Image" src="https://github.com/user-attachments/assets/2be59a8d-c2cc-4867-9db1-d255f4de3303" width="300">
@@ -59,7 +59,7 @@ python3 app.py
 cap = cv2.VideoCapture("https://cctvsec.ktict.co.kr/6246/cCCtjN+N+EnDEdCu9wHS00X5iOMXIc41FwpwasljdCsrysX/jGzlP6b54WADcjaY")
 ```
 
-## 면적 측정
+## 💡면적 측정
 
 1. [구글맵](https://www.google.co.kr/maps/?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D)
 <p align="center">
@@ -81,29 +81,29 @@ cap = cv2.VideoCapture("https://cctvsec.ktict.co.kr/6246/cCCtjN+N+EnDEdCu9wHS00X
 각 웹에서 거리 및 면적 측정 가능
 ```
 
-## ~~OC_SORT 모델 활용~~
+## 💡~~OC_SORT 모델 활용~~
 ```
 https://github.com/noahcao/OC_SORT/tree/master
 ```
 
-## YOLO custom_datasets 경로 셋팅
+## 💡YOLO custom_datasets 경로 셋팅
 ```
 coco8.yaml => path : coco8 폴더 경로, train : train 폴더 경로, val : val 폴더 경로
 model.train(data='coco8.yaml 파일 경로')
 ```
 
-## Background images
+## 💡Background images
 <img src="https://github.com/user-attachments/assets/052d795a-8361-4905-b325-8124e7ba729d" width="600">
 
 ```
 FP => 거짓 탐지 => 오탐을 줄일 수 있다.
 ```
-## Data Augmentation
+## 💡Data Augmentation
 <p align="center">
   <img src="https://github.com/user-attachments/assets/81c866a3-c39d-4cb4-89d6-a7bc818e7a65" width="600">
 </p>
 
-## 파이썬 경고음 넣기
+## 💡파이썬 경고음 넣기
 [더미 경고음 사이트](https://pixabay.com/ko/sound-effects/search/%EA%B2%BD%EA%B3%A0%EC%9D%8C/)
 
 ```
@@ -121,7 +121,7 @@ from playsound import playsound
 playsound('./alarm.mp3')
 ```
 
-## requirements.txt 만들기
+## 💡requirements.txt 만들기
 ```
 1. pip install pipreqs 설치
 2. 프로젝트 폴더 경로 이동
@@ -129,7 +129,7 @@ playsound('./alarm.mp3')
 4. 저장 경로 확인
 ```
 
-## Twilio 활용하여 Python으로 문자 알림 보내기
+## 💡Twilio 활용하여 Python으로 문자 알림 보내기
 [Twilio](https://www.twilio.com/en-us)
 ```
 Twilio 회원가입 후
@@ -140,12 +140,12 @@ Twilio 회원가입 후
   <img src="https://github.com/user-attachments/assets/bd68c8dd-626e-475c-97fc-a50108abdd10" width="1000">
 </p>
 
-## README.md 파일 작성법 및 소개
+## 💡README.md 파일 작성법 및 소개
 ```
 https://gist.github.com/ihoneymon/652be052a0727ad59601
 ```
 
-## 성능 평가 용어 설명👀
+## 💡성능 평가 용어 설명👀
 #### Precision(정밀도)
 
 ```
@@ -204,7 +204,7 @@ Precision과 Recall의 조화평균
 🚩 [Google Machine Learning Crash Course - Precision & Recall](https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall) <br>
 🚩 [Google Machine Learning Crash Course - Classification: ROC and AUC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc) <br>
 
-## Precision과 Recall의 경우의 수
+## 💡Precision과 Recall의 경우의 수
 | Precision (정밀도) | Recall (재현율) | 의미                                       |
 |-------------------|---------------|------------------------------------------|
 | 높음               | 높음            | 이상적인 모델 (오탐과 미탐이 적음)              |
@@ -215,14 +215,12 @@ Precision과 Recall의 조화평균
 
 ## 📝 Precision-Recall 관련 문제
 #### 🔹 1. Precision이 높고 Recall이 낮은 경우
+```
 객체 탐지 모델을 적용했더니 탐지된 객체는 대부분 정확하지만, 많은 실제 객체를 놓치는 경우
 
-<p style="background-color: #000; color: #000;" onmousedown="this.style.color='#fff'">✅ 정답: Precision ↑, Recall ↓
-
-✅ 해결 방법: Recall을 높이기 위해 Confidence Threshold를 낮추고 탐지 범위를 확대</p>
-
-<span style="background-color: #000; color: #000;">✅ 정답: Precision ↑, Recall ↓</span>
-
+✅ 정답: Precision ↑, Recall ↓
+✅ 해결 방법: Recall을 높이기 위해 Confidence Threshold를 낮추고 탐지 범위를 확대해야 한다.
+```
 
 #### 🔹 2. Precision이 낮고 Recall이 높은 경우
 ```
