@@ -193,8 +193,9 @@ Precision과 Recall의 조화평균
 ```
 
 #### 참고 링크
-🚩 Precision-Recall vs. ROC Curve
-- [Precision-Recall vs. ROC Curve - CosmicCoding](https://cosmiccoding.com.au/tutorials/pr_vs_roc_curves/)
+```
+🚩 [Precision-Recall vs. ROC Curve - CosmicCoding](https://cosmiccoding.com.au/tutorials/pr_vs_roc_curves/)
+```
 
 🚩 Receiver Operating Characteristic (ROC)
 - [Receiver Operating Characteristic (ROC) - Wikipedia](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
