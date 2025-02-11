@@ -216,32 +216,32 @@ Precision과 Recall의 조화평균
 ## 📝 Precision-Recall 관련 문제
 #### 🔹 1. Precision이 높고 Recall이 낮은 경우
 ```
-객체 탐지 모델을 적용했더니 탐지된 객체는 대부분 정확하지만, 많은 실제 객체를 놓치는 경우가 발생했다. 이 경우 Precision과 Recall 중 어느 값이 높거나 낮은가?
+객체 탐지 모델을 적용했더니 탐지된 객체는 대부분 정확하지만, 많은 실제 객체를 놓치는 경우
 
 ✅ 정답: Precision ↑, Recall ↓
-✅ 해결 방법: Recall을 높이기 위해 Confidence Threshold를 낮추고 탐지 범위를 확대해야 한다.
+✅ 해결 방법: Recall을 높이기 위해 Confidence Threshold를 낮추고 탐지 범위를 확대
 ```
 
 #### 🔹 2. Precision이 낮고 Recall이 높은 경우
 ```
-CCTV 기반 사람 탐지 시스템에서 거의 모든 사람을 탐지할 수 있지만, 실제 사람이 아닌 그림자나 마네킹도 사람으로 오탐하는 경우가 많다. Precision과 Recall 중 어느 값이 높거나 낮은가?
+CCTV 기반 사람 탐지 시스템에서 거의 모든 사람을 탐지할 수 있지만, 실제 사람이 아닌 그림자나 마네킹도 사람으로 오탐하는 경우
 
 ✅ 정답: Precision ↓, Recall ↑
-✅ 해결 방법: Confidence Threshold를 높이고, Hard Negative Mining을 적용하여 오탐을 줄여야 한다.
+✅ 해결 방법: Confidence Threshold를 높이고, Hard Negative Mining을 적용
 ```
 
 #### 🔹 3. Precision과 Recall이 모두 낮은 경우
 ```
-YOLO 모델을 적용했더니 탐지된 객체 중 상당수가 오탐이며, 실제 객체도 잘 탐지되지 않는 경우가 발생했다. Precision과 Recall 중 어느 값이 높거나 낮은가?
+YOLO 모델을 적용했더니 탐지된 객체 중 상당수가 오탐이며, 실제 객체도 잘 탐지되지 않는 경우가 발생
 
 ✅ 정답: Precision ↓, Recall ↓
-✅ 해결 방법: 데이터셋을 개선하고, 모델을 추가 학습해야 한다. 또한, NMS와 Confidence Threshold를 적절히 조정하여 탐지 성능을 개선해야 한다.
+✅ 해결 방법: 데이터셋을 개선하고, 모델을 추가 학습해야 한다. 또한, NMS와 Confidence Threshold를 적절히 조정하여 탐지 성능을 개선
 ```
 
 #### 🔹 4. Precision과 Recall이 모두 높은 경우
 ```
-어떤 모델이 적용된 후 탐지된 객체는 대부분 정확하고, 실제 객체도 놓치지 않고 탐지할 수 있다. 이 모델의 Precision과 Recall 상태는?
+어떤 모델이 적용된 후 탐지된 객체는 대부분 정확하고, 실제 객체도 놓치지 않고 탐지
 
 ✅ 정답: Precision ↑, Recall ↑
-✅ 설명: 이상적인 모델이며, 성능이 최적화된 상태이다.
+✅ 설명: 이상적인 모델이며, 성능이 최적화된 상태
 ```
