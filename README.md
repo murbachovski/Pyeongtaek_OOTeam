@@ -193,24 +193,16 @@ Precision과 Recall의 조화평균
 ```
 
 #### 참고 링크
-```
 🚩 [Precision-Recall vs. ROC Curve - CosmicCoding](https://cosmiccoding.com.au/tutorials/pr_vs_roc_curves/)
-```
 
-🚩 Receiver Operating Characteristic (ROC)
-- [Receiver Operating Characteristic (ROC) - Wikipedia](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+🚩 [Receiver Operating Characteristic (ROC) - Wikipedia](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
 
-🚩 Confusion Matrix
-- [Confusion Matrix - Wikipedia](https://en.wikipedia.org/wiki/Confusion_matrix)
+🚩 [Confusion Matrix - Wikipedia](https://en.wikipedia.org/wiki/Confusion_matrix)
 
-🚩 ROC Curve & AUC Explanation
-- [ROC Curve & AUC 설명 - Dream2Reality 블로그](https://dream2reality.tistory.com/9)
+🚩 [ROC Curve & AUC 설명 - Dream2Reality 블로그](https://dream2reality.tistory.com/9)
 
-🚩 Precision & Recall
-- [Google Machine Learning Crash Course - Precision & Recall](https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ko)
+🚩 [Google Machine Learning Crash Course - Precision & Recall](https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ko)
 
-🚩 Machine Learning Performance Measurement
-- [머신러닝 성능 측정 방법 - Meme2515 블로그](https://meme2515.github.io/machine_learning/performance_measurement/)
+🚩 [머신러닝 성능 측정 방법 - Meme2515 블로그](https://meme2515.github.io/machine_learning/performance_measurement/)
 
-🚩 Classification Performance Metrics (Precision, Recall)
-- [분류 성능 지표 (Precision, Recall) - AI-Com 블로그](https://ai-com.tistory.com/entry/ML-%EB%B6%84%EB%A5%98-%EC%84%B1%EB%8A%A5-%EC%A7%80%ED%91%9C-Precision%EC%A0%95%EB%B0%80%EB%8F%84-Recall%EC%9E%AC%ED%98%84%EC%9C%A8)
+🚩 [분류 성능 지표 (Precision, Recall) - AI-Com 블로그](https://ai-com.tistory.com/entry/ML-%EB%B6%84%EB%A5%98-%EC%84%B1%EB%8A%A5-%EC%A7%80%ED%91%9C-Precision%EC%A0%95%EB%B0%80%EB%8F%84-Recall%EC%9E%AC%ED%98%84%EC%9C%A8)
