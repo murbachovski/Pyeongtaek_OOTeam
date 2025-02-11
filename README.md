@@ -221,6 +221,9 @@ Precision과 Recall의 조화평균
 
 ✅ 해결 방법: Recall을 높이기 위해 Confidence Threshold를 낮추고 탐지 범위를 확대</p>
 
+<span style="background-color: #000; color: #000;">✅ 정답: Precision ↑, Recall ↓</span>
+
+
 #### 🔹 2. Precision이 낮고 Recall이 높은 경우
 ```
 CCTV 기반 사람 탐지 시스템에서 거의 모든 사람을 탐지할 수 있지만, 실제 사람이 아닌 그림자나 마네킹도 사람으로 오탐하는 경우
