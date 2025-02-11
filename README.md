@@ -250,6 +250,7 @@ Precision과 Recall의 조화평균
 <p align="center">
   <img src="https://github.com/user-attachments/assets/84a0bfe9-ce05-46cc-84f1-ac3343aa3c73" width="800">
 </p>
+
 ```
 문자열을 다시 디코딩하면 이미지로 돌아옵니다.
 ```
