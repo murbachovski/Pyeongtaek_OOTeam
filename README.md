@@ -191,3 +191,12 @@ Precision과 Recall의 조화평균
 ✅ FPR vs. TPR의 관계를 나타내며, 좌상단에 가까울수록 좋은 모델
 ✅ AUC 값이 클수록 좋은 성능을 의미 (1에 가까울수록 우수)
 ```
+
+#### 참고 링크
+https://cosmiccoding.com.au/tutorials/pr_vs_roc_curves/
+https://en.wikipedia.org/wiki/Receiver_operating_characteristic
+https://en.wikipedia.org/wiki/Confusion_matrix
+https://ai-com.tistory.com/entry/ML-%EB%B6%84%EB%A5%98-%EC%84%B1%EB%8A%A5-%EC%A7%80%ED%91%9C-Precision%EC%A0%95%EB%B0%80%EB%8F%84-Recall%EC%9E%AC%ED%98%84%EC%9C%A8
+https://dream2reality.tistory.com/9
+https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ko
+https://meme2515.github.io/machine_learning/performance_measurement/
