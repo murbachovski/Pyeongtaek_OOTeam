@@ -245,5 +245,3 @@ YOLO 모델을 적용했더니 탐지된 객체 중 상당수가 오탐이며, �
 ✅ 정답: Precision ↑, Recall ↑
 ✅ 설명: 이상적인 모델이며, 성능이 최적화된 상태
 ```
-
-<p>$\it{\large{\color{#333333}정답: Precision ↑, Recall ↑}}$</p>
