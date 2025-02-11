@@ -147,24 +147,29 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 ## 성능 평가 용어 설명
 Precision(정밀도)
+
 ```
 모델이 Positive로 판정한 것 중, 실제 Positive 비율
 ```
 
 Recall(재현율)
+
 ```
 실제 Positive 중 모델이 Positive 비율
 ```
 
 F1-score
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4fdffc5c-ae29-4dab-8ec0-5f80e025d268" width="300">
 </p>
+
 ```
 Precision과 Recall의 조화평균
 ```
 
 조화평균
+
 ```
 조화평균은 여러 값의 평균을 구할 때, 작은 값이 상대적으로 더 큰 영향을 주는 평균 방식
 1. Precision과 Recall 중 하나라도 낮으면 F1-score도 낮아짐
@@ -180,6 +185,7 @@ ROC Curve
 <p align="center">
   <img src="https://github.com/user-attachments/assets/91d7948a-ec7e-483a-b8eb-e0e1a53e0f60" width="300">
 </p>
+
 ```
 Threshold에 따른 TPR과 FPR을 나타낸 그래프
 대각선을 기준으로 좌상단으로 붙어있는 ROC curve일수록 좋은 분류 성능
