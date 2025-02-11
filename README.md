@@ -149,13 +149,13 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 #### Precision(정밀도)
 
 ```
-모델이 Positive로 판정한 것 중, 실제 Positive 비율
+모델의 Positive로 판정한 것 중, 실제 Positive 비율
 ```
 
 #### Recall(재현율)
 
 ```
-실제 Positive 중 모델이 Positive 비율
+실제 Positive 중 모델의 Positive 비율
 ```
 
 #### F1-score
