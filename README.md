@@ -145,17 +145,17 @@ Twilio 회원가입 후
 https://gist.github.com/ihoneymon/652be052a0727ad59601
 ```
 
-## 👀성능 평가 용어 설명
+## 👀성능 평가 용어 설명👀
 #### Precision(정밀도)
 
 ```
-✨모델이 Positive로 판정한 것 중, 실제 Positive 비율
+모델이 Positive로 판정한 것 중, 실제 Positive 비율
 ```
 
 #### Recall(재현율)
 
 ```
-✨실제 Positive 중 모델이 Positive 비율
+실제 Positive 중 모델이 Positive 비율
 ```
 
 #### F1-score
@@ -165,13 +165,13 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </p>
 
 ```
-✨Precision과 Recall의 조화평균
+Precision과 Recall의 조화평균
 ```
 
 #### 조화평균
 
 ```
-✨조화평균은 여러 값의 평균을 구할 때, 작은 값이 상대적으로 더 큰 영향을 주는 평균 방식
+조화평균은 여러 값의 평균을 구할 때, 작은 값이 상대적으로 더 큰 영향을 주는 평균 방식
 1. Precision과 Recall 중 하나라도 낮으면 F1-score도 낮아짐
   예를 들어 Precision = 90, Recall = 10이면 일반 평균은 50이지만,
   조화평균을 쓰면 F1-score ≈ 18.2로 낮아짐 → 한쪽이 낮으면 전체 성능도 낮게 반영
