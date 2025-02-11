@@ -216,7 +216,9 @@ Precision과 Recall의 조화평균
 ## 📝 Precision-Recall 관련 문제
 #### 🔹 1. Precision이 높고 Recall이 낮은 경우
 객체 탐지 모델을 적용했더니 탐지된 객체는 대부분 정확하지만, 많은 실제 객체를 놓치는 경우
+
 <p style="background-color: #000; color: #000;" onmousedown="this.style.color='#fff'">✅ 정답: Precision ↑, Recall ↓
+
 ✅ 해결 방법: Recall을 높이기 위해 Confidence Threshold를 낮추고 탐지 범위를 확대</p>
 
 #### 🔹 2. Precision이 낮고 Recall이 높은 경우
