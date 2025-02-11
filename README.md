@@ -193,10 +193,10 @@ Precision과 Recall의 조화평균
 ```
 
 #### 참고 링크
-🚩 https://cosmiccoding.com.au/tutorials/pr_vs_roc_curves/
-🚩 https://en.wikipedia.org/wiki/Receiver_operating_characteristic
-🚩 https://en.wikipedia.org/wiki/Confusion_matrix
-🚩 https://dream2reality.tistory.com/9
-🚩 https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ko
-🚩 https://meme2515.github.io/machine_learning/performance_measurement/
-🚩 https://ai-com.tistory.com/entry/ML-%EB%B6%84%EB%A5%98-%EC%84%B1%EB%8A%A5-%EC%A7%80%ED%91%9C-Precision%EC%A0%95%EB%B0%80%EB%8F%84-Recall%EC%9E%AC%ED%98%84%EC%9C%A8
+🚩 https://cosmiccoding.com.au/tutorials/pr_vs_roc_curves/ <br>
+🚩 https://en.wikipedia.org/wiki/Receiver_operating_characteristic <br>
+🚩 https://en.wikipedia.org/wiki/Confusion_matrix <br>
+🚩 https://dream2reality.tistory.com/9 <br>
+🚩 https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ko <br>
+🚩 https://meme2515.github.io/machine_learning/performance_measurement/ <br>
+🚩 https://ai-com.tistory.com/entry/ML-%EB%B6%84%EB%A5%98-%EC%84%B1%EB%8A%A5-%EC%A7%80%ED%91%9C-Precision%EC%A0%95%EB%B0%80%EB%8F%84-Recall%EC%9E%AC%ED%98%84%EC%9C%A8 <br>
