@@ -253,3 +253,8 @@ Precision과 Recall의 조화평균
 ```
 문자열을 다시 디코딩하면 이미지로 돌아옵니다.
 ```
+
+#### 이메일
+```
+ai.murbachovski@gmail.com
+```
